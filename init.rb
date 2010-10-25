@@ -11,6 +11,7 @@ end
 require "monk/glue"
 require "couchrest"
 require "haml"
+require "sass"
 require "json"
 
 class Main < Monk::Glue
