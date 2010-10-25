@@ -10,7 +10,7 @@ end
 
 require "monk/glue"
 require "couchrest"
-require "erb"
+require "haml"
 require "json"
 
 class Main < Monk::Glue
